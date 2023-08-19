@@ -9,6 +9,10 @@ public class Class01 {
 
         System.out.println(x-y);
 
+        //V2
+
+        System.out.println("versiyon 2 standart");
+
     }
 
 }
