@@ -17,6 +17,10 @@ public class Class01 {
 
         System.out.println("versiyon 3 standart");
 
+        //V4
+
+        System.out.println("versiyon 4 standart");
+
     }
 
 }
